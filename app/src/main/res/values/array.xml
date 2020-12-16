@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="company">
+        <item>맑음</item>
+        <item>비</item>
+        <item>눈</item>
+        <item>태풍</item>
+        <item>우박</item>
+    </string-array>
+
+</resources>
+
